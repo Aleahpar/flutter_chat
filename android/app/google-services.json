@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383666870536",
+    "project_id": "trab-giovany",
+    "storage_bucket": "trab-giovany.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383666870536:android:d7a8875ea9028fefef74bd",
+        "android_client_info": {
+          "package_name": "trabgiovany.trab_giovany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383666870536-d6si80m7c3t7ac74i0lt1jnrk66hlsuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKEDWpEWr5G-cXPJaRDij4-8mxzvarP3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383666870536-d6si80m7c3t7ac74i0lt1jnrk66hlsuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
